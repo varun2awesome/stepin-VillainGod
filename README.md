@@ -2,6 +2,13 @@
 
 ![villain](https://github.com/varun2awesome/stepin-VillainGod/blob/c94a0911abd889f5f794523f7848d7ed3d2b51f5/6_ImagesAndVideos/VillainGod.gif)
 
+<a href="https://frontend.code-inspector.com/public/user/github/varun2awesome">
+   <img src="https://code-inspector.com/public/badge/user/github/varun2awesome?style=light" alt="code inspector badge" />
+</a>
+
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3fd87b9fb5a04659a04da4d81316a3aa)](https://www.codacy.com/gh/varun2awesome/stepin-VillainGod/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=varun2awesome/stepin-VillainGod&amp;utm_campaign=Badge_Grade)
+
 # Requirements 
 
 ## Introduction 
@@ -53,5 +60,3 @@ Basic requirements that are very essential are:
 |HR02-LR02|Password – contains/manages/handles password protection|Technical|Implemented|
 |HR04-LR03|Minimum 10MB hard disk space required.|Technical|Implemented|
 |HR04-LR04|Intel/Pentium powered system.Processor speed 1.7 GHZ required.|Technical|Implemented|
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3fd87b9fb5a04659a04da4d81316a3aa)](https://www.codacy.com/gh/varun2awesome/stepin-VillainGod/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=varun2awesome/stepin-VillainGod&amp;utm_campaign=Badge_Grade)
