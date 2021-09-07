@@ -3,9 +3,10 @@
 ![villain](https://github.com/varun2awesome/stepin-VillainGod/blob/c94a0911abd889f5f794523f7848d7ed3d2b51f5/6_ImagesAndVideos/VillainGod.gif)
 
 <a href="https://frontend.code-inspector.com/public/user/github/varun2awesome">
-   <img src="https://code-inspector.com/public/badge/user/github/varun2awesome?style=light" alt="code inspector badge" />
+   
    <img src="https://www.code-inspector.com/project/27419/score/svg" />
    <img src="https://www.code-inspector.com/project/27419/status/svg" />
+   <img src="https://code-inspector.com/public/badge/user/github/varun2awesome?style=light" alt="code inspector badge" />
 </a>
 
 
