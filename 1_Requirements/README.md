@@ -4,6 +4,7 @@
 Everone have their own DEEPDOWN DARK DESIRES/SECRETS which we are not comfortable in sharing with anyone. But not able to share somethimg and kkep it with you lead to stress and horrible thoughts. So introducing...
 
 ![intro](https://github.com/varun2awesome/stepin-VillainGod/blob/3b22fa8ce6413e79ff26e358bffff7dd75fe480f/1_Requirements/intro.gif)
+
 Where You can share your secrets without being worried of trust issues.
 In this project, you need to enter a password to view, edit or delete record. Password is not required to view the main menu or to add record. 
 
