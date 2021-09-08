@@ -5,10 +5,8 @@
 # Badges
 
 <a href="https://frontend.code-inspector.com/public/user/github/varun2awesome">
-   
    <img src="https://www.code-inspector.com/project/27419/score/svg" />
    <img src="https://www.code-inspector.com/project/27419/status/svg" />
-   
    <img src="https://code-inspector.com/public/badge/user/github/varun2awesome?style=dark" alt="code inspector badge" />
 </a>
 
