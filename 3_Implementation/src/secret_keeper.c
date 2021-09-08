@@ -23,7 +23,7 @@ void addrecord( )
 
     printf("\n\t\t✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠\n\n");
 
-    printf("\n\n\tENTER DATE OF YOUR RECORD:[yyyy-mm-dd]:");
+    printf("\n\n\tENTER DATE OF YOUR SECRET:[yyyy-mm-dd]:");
 
     fflush(stdin);
 
@@ -75,7 +75,7 @@ void addrecord( )
 
             {
 
-                printf("\n\tTHE RECORD ALREADY EXISTS.\n");
+                printf("\n\tALREADY EXISTS.\n");
 
                 choice=1;
 
@@ -115,11 +115,11 @@ void addrecord( )
 
             fwrite ( &e, sizeof ( e ), 1, fp ) ;
 
-            printf("\nYOUR RECORD IS ADDED...\n");
+            printf("\nsssss! SECRET ADDED...\n");
 
         }
 
-        printf ( "\n\tADD ANOTHER RECORD...(Y/N) " ) ;
+        printf ( "\n\tWANNA ADD ANOTHER SECRET...(Y/N) " ) ;
 
         fflush ( stdin ) ;
 
@@ -150,11 +150,11 @@ void viewrecord( )
 
     int ch;
 
-    printf("\n\n\t\t*******************************\n");
+    printf("\n\n\t\t✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠\n");
 
-    printf("\t\t* VIEWING MENU *");
+    printf("\t\t* VIEWING SECRETS *");
 
-    printf("\n\t\t*******************************\n\n");
+    printf("\n\t\t✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠\n\n");
 
     choice=password();
 
@@ -170,7 +170,7 @@ void viewrecord( )
 
     {
     // To view the record of a particular day
-        printf("\n\tENTER THE DATE OF RECORD TO BE VIEWED:[yyyy-mm-dd]:");
+        printf("\n\tENTER THE DATE OF SECTRET TO BE VIEWED:[yyyy-mm-dd]:");
 
         fflush(stdin);
 
@@ -182,7 +182,7 @@ void viewrecord( )
 
         {
 
-            puts ( "\nTHE RECORD DO NOT EXIST...\n" ) ;
+            puts ( "\n DO NOT EXIST...\n" ) ;
 
             printf("PRESS ANY KEY TO EXIT...");
 
@@ -198,9 +198,9 @@ void viewrecord( )
 
         printf("\n\tHOW WOULD YOU LIKE TO VIEW:\n");
 
-        printf("\n\t1.WHOLE RECORD OF THE DAY.");
+        printf("\n\t1.WHOLE SECRETS OF THE DAY.");
 
-        printf("\n\t2.RECORD OF FIX TIME.");
+        printf("\n\t2.SECRETS OF FIX TIME.");
 
         printf("\n\t\tENTER YOUR CHOICE:");
 
@@ -212,7 +212,7 @@ void viewrecord( )
 
         case 1:
 
-            printf("\nTHE WHOLE RECORD FOR %s IS:",filename);
+            printf("\nALL THE SECRETS FOR %s IS:",filename);
 
             while ( fread ( &customer, sizeof ( customer ), 1, fpte ) == 1 )
 
@@ -252,7 +252,7 @@ void viewrecord( )
 
                 {
 
-                    printf("\nYOUR RECORD IS:");
+                    printf("\nYOUR SECRET IS:");
 
                     printf("\nTIME: %s",customer.time);
 
@@ -308,11 +308,11 @@ void editrecord()
 
     int num,count=0;
 
-    printf("\n\n\t\t*******************************\n");
+    printf("\n\n\t\t✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠\n");
 
     printf("\t\t* WELCOME TO THE EDITING MENU *");
 
-    printf("\n\t\t*******************************\n\n");
+    printf("\n\t\t✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠\n\n");
 
     choice=password();
 
@@ -935,11 +935,11 @@ void deleterecord( )
 
     int choice,check;
 
-    printf("\n\n\t\t*************************\n");
+    printf("\n\n\t\✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠\n");
 
     printf("\t\t* WELCOME TO DELETE MENU*");
 
-    printf("\n\t\t*************************\n\n");
+    printf("\n\t\t✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠\n\n");
 
     check = password();
 
