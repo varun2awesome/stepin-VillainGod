@@ -10,7 +10,7 @@ Test Case Id       | Test Scenario          |  Test Data
 6                  | Edit Password          | Current password –  varunverma and New password –  varunverma
 7                  | Delete Password        | After entering password  varun can delete the Secrets.                                                                         
 
-# EXPECTED OUTCOMES:-
+## EXPECTED OUTCOMES:-
 
 Test Case Id       | EXPECTED RESULT         
 -------------------| ---------------------------------------
