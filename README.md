@@ -2,6 +2,8 @@
 
 ![villain](https://github.com/varun2awesome/stepin-VillainGod/blob/c94a0911abd889f5f794523f7848d7ed3d2b51f5/6_ImagesAndVideos/VillainGod.gif)
 
+# Badges
+
 <a href="https://frontend.code-inspector.com/public/user/github/varun2awesome">
    
    <img src="https://www.code-inspector.com/project/27419/score/svg" />
