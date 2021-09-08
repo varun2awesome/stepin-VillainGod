@@ -67,3 +67,50 @@ Basic requirements that are very essential are:
 |HR02-LR02|Password – contains/manages/handles password protection|Technical|Implemented|
 |HR04-LR03|Minimum 10MB hard disk space required.|Technical|Implemented|
 |HR04-LR04|Intel/Pentium powered system.Processor speed 1.7 GHZ required.|Technical|Implemented|
+
+# Implementation
+
+## Folder Structure
+Folder        | Description
+--------------| ----------------------------------------------
+`inc`         |  header files
+`src`         | Source code files for VillainGod
+`test`        | All source code and data for testing purposes
+`unity`       | Files for unit testing
+
+
+### To build and execute:
+```
+make all
+make run
+```
+
+
+
+
+
+### Documentation
+
+```
+make doc
+```
+
+### Test
+
+```
+make test
+```
+
+### Coverage
+
+```
+make coverage
+```
+
+make dynamic
+```
+
+### Uninstall
+```
+make clean
+```
