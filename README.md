@@ -5,13 +5,9 @@
 # Badges
 
 [![cppcheck-action](https://github.com/varun2awesome/stepin-VillainGod/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/varun2awesome/stepin-VillainGod/actions/workflows/c-cpp.yml)
-
 [![cppcheck-action](https://github.com/varun2awesome/stepin-VillainGod/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/varun2awesome/stepin-VillainGod/actions/workflows/c-cpp.yml)
-
 [![CI](https://github.com/varun2awesome/stepin-VillainGod/actions/workflows/main.yml/badge.svg)](https://github.com/varun2awesome/stepin-VillainGod/actions/workflows/main.yml)
-
 [![Valgrind](https://github.com/varun2awesome/stepin-VillainGod/actions/workflows/valgrind.yml/badge.svg)](https://github.com/varun2awesome/stepin-VillainGod/actions/workflows/valgrind.yml)
-
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3fd87b9fb5a04659a04da4d81316a3aa)](https://www.codacy.com/gh/varun2awesome/stepin-VillainGod/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=varun2awesome/stepin-VillainGod&amp;utm_campaign=Badge_Grade)
 <a href="https://frontend.code-inspector.com/public/user/github/varun2awesome">
    <img src="https://www.code-inspector.com/project/27419/score/svg" />
