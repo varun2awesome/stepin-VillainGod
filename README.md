@@ -10,7 +10,7 @@
    <img src="https://code-inspector.com/public/badge/user/github/varun2awesome?style=dark" alt="code inspector badge" />
 </a>
 
-
+[![CI](https://github.com/varun2awesome/stepin-VillainGod/blob/26de44f4d92a252f3154276b0657070ef8f53b95/.github/workflows/c-cpp.yml/badge.svg)](https://github.com/varun2awesome/stepin-VillainGod/blob/26de44f4d92a252f3154276b0657070ef8f53b95/.github/workflows/c-cpp.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3fd87b9fb5a04659a04da4d81316a3aa)](https://www.codacy.com/gh/varun2awesome/stepin-VillainGod/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=varun2awesome/stepin-VillainGod&amp;utm_campaign=Badge_Grade)
 
 # Requirements 
