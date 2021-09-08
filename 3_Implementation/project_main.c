@@ -5,11 +5,11 @@ int main()
 
     int ch;
 
-    printf("\n\n\t***********************************\n");
+    printf("\n\n\t✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠\n");
 
-    printf("\t*PERSONAL DIARY MANAGEMENT SYSTEM*\n");
+    printf("\t*PERSONAL SECRET MANAGEMENT SYSTEM*\n");
 
-    printf("\t***********************************");
+    printf("\t✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠");
 
     // Menu-driven system for the user ease of access
     while(1)
@@ -18,13 +18,13 @@ int main()
 
         printf("\n\n\t\tMAIN MENU:");
 
-        printf("\n\n\tADD RECORD\t[1]");
+        printf("\n\n\tADD SECRET\t[1]");
 
-        printf("\n\tVIEW RECORD\t[2]");
+        printf("\n\tVIEW SECRETS\t[2]");
 
-        printf("\n\tEDIT RECORD\t[3]");
+        printf("\n\tEDIT SECRETS\t[3]");
 
-        printf("\n\tDELETE RECORD\t[4]");
+        printf("\n\tDELETE SECRETS\t[4]");
 
         printf("\n\tEDIT PASSWORD\t[5]");
 
@@ -70,7 +70,7 @@ int main()
 
         case 6:
 
-            printf("\n\n\t\tTHANK YOU FOR USING THE PERSONAL DIARY MANAGEMENT SYSTEM ");
+            printf("\n\n\t\tTHANK YOU FOR USING THE PERSONAL SECRET MANAGEMENT SYSTEM ");
 
             getchar();
 
