@@ -30,6 +30,9 @@ The main objectives of this project are:
 * To provide user a secure and reliable environment where deep down dark secrects can be shared.
 * To keep notes password protected so none other then user can read edit and delete.
 
+## SWOT ANALYSIS
+![SWOT](https://github.com/varun2awesome/stepin-VillainGod/blob/0339d6b9ab44112187bcc5485464b096cbbcd7fc/6_ImagesAndVideos/SWOT.gif)
+
 
 ## ***4 W's and 1 H***
 ## Who
